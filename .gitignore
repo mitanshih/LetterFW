@@ -1,0 +1,14 @@
+# My personal setting in vscode.
+.vscode/
+
+# Python cache
+__pycache__/
+
+# Save the account information, it will instead be the keyboard input.
+admin.txt
+
+# Debug log
+log.txt
+
+# Temp folder
+temp/
