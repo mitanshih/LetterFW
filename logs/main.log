@@ -1,0 +1,18 @@
+01-20 16:04:58 - personal_information.py - INFO - Get login information.
+01-20 16:04:58 - database_operator.py - INFO - Database Server in host='localhost' connected.
+01-20 16:04:58 - database_operator.py - INFO - Check the existence of LetterFW.
+01-20 16:04:58 - database_operator.py - INFO - Create database='LetterFW' successfully.
+01-20 16:04:58 - database_operator.py - INFO - Database Server at localhost closed.
+01-20 16:04:58 - personal_information.py - INFO - Get login information.
+01-20 16:04:58 - database_operator.py - INFO - Database LetterFW connected.
+01-20 16:04:58 - database_operator.py - INFO - Database Server at localhost closed.
+
+01-20 16:05:22 - personal_information.py - INFO - Get login information.
+01-20 16:05:22 - database_operator.py - INFO - Database Server in host='localhost' connected.
+01-20 16:05:22 - database_operator.py - INFO - Check the existence of LetterFW.
+01-20 16:05:22 - database_operator.py - WARNING - database='LetterFW' already exists.
+01-20 16:05:22 - database_operator.py - INFO - Create LetterFW failed.
+01-20 16:05:22 - database_operator.py - INFO - Database Server at localhost closed.
+01-20 16:05:22 - personal_information.py - INFO - Get login information.
+01-20 16:05:22 - database_operator.py - INFO - Database LetterFW connected.
+01-20 16:05:22 - database_operator.py - INFO - Database Server at localhost closed.
